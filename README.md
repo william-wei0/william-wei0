@@ -1,6 +1,8 @@
 ## Hello, This is William Wei 👋
 
-- I’m currently working as a Machine Learning Engineer at [Smart Microphysiological Systems for Precision Medicine](https://engineering.nyu.edu/research/student-research/vertically-integrated-projects/vip-teams/smart-microphysiological-system-for-precision-medicine-gy) at New York University.
+- I’m currently working as a Machine Learning Engineer at [Smart Microphysiological Systems for Precision Medicine](https://engineering.nyu.edu/research/student-research/vertically-integrated-projects/vip-teams/smart-microphysiological-system-for-precision-medicine-gy) at New York University developing an Attention-LSTM to evaluate patient responsiveness to iummnotherapy for pancreatic cancer.
+  
+- I've worked as a Computer Vision Research Assistant at [Garetz and Hartman Research Laboratory](https://wp.nyu.edu/hartmanlab/category/people/) where I developed a YOLOv11-based CNN to track and automatically measure the shape and size of microscopic crystals produced by non-photochemical laser-induced nucleation. I've also worked as a course assistant for New York University's Department of Chemical and Biomolecular Engineering where I deployed a full-stack website educational website including interactive simulations of quantum mechanics to help students interact with concepts.
 
 <!--
 **william-wei0/william-wei0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
