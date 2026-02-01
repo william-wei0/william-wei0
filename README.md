@@ -8,7 +8,7 @@
 
 - I've also deployed a full-stack website educational website including interactive simulations of quantum mechanics to help students interact with concepts while working as a course assistant for New York University's Department of Chemical and Biomolecular Engineering.
 
-- If you'd like to collaborate or have any questions, please feel free to reach out!
+- 💬 If you'd like to collaborate or have any questions, please feel free to reach out!
 - 📫 How to reach me: wjw9857@nyu.edu or williamwei9857@gmail.com
 
 <!--
