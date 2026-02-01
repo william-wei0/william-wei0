@@ -1,6 +1,6 @@
 ## Hi! I'm William Wei 👋
 
-- I graduated from New York University (NYU) in 2025 with a Bachelor's in Biomolecular Science and minors in Computer Science and Mathematics.
+- 🏢 I graduated from New York University (NYU) in 2025 with a Bachelor's in Biomolecular Science and minors in Computer Science and Mathematics.
 
 - I’m currently working as a Machine Learning Engineer at [Smart Microphysiological Systems for Precision Medicine](https://engineering.nyu.edu/research/student-research/vertically-integrated-projects/vip-teams/smart-microphysiological-system-for-precision-medicine-gy) at New York University developing an Attention-LSTM to evaluate patient responsiveness to immunotherapy for pancreatic cancer.
   
