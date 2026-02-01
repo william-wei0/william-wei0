@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, This is William Wei 👋
+
+- 🔭 I’m currently working on ...
 
 <!--
 **william-wei0/william-wei0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
