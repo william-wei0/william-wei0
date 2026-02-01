@@ -1,6 +1,6 @@
 ## Hello, This is William Wei 👋
 
-- 🔭 I’m currently working on ...
+- I’m currently working as a Machine Learning Engineer at [Smart Microphysiological Systems for Precision Medicine](https://engineering.nyu.edu/research/student-research/vertically-integrated-projects/vip-teams/smart-microphysiological-system-for-precision-medicine-gy) at New York University.
 
 <!--
 **william-wei0/william-wei0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
