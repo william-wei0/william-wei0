@@ -1,4 +1,4 @@
-## Hi There, I'm William Wei 👋
+## Hi! I'm William Wei 👋
 
 - I’m currently working as a Machine Learning Engineer at [Smart Microphysiological Systems for Precision Medicine](https://engineering.nyu.edu/research/student-research/vertically-integrated-projects/vip-teams/smart-microphysiological-system-for-precision-medicine-gy) at New York University developing an Attention-LSTM to evaluate patient responsiveness to iummnotherapy for pancreatic cancer.
 
