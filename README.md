@@ -11,7 +11,7 @@
 - 💬 If you'd like to collaborate or have any questions, please feel free to reach out!
 - 📫 How to reach me: wjw9857@nyu.edu or williamwei9857@gmail.com
 
-  If you would like to learn more, check my portfolio page at [william-wei0.github.io](https://william-wei0.github.io/).
+If you would like to learn more, check my portfolio page at [william-wei0.github.io](https://william-wei0.github.io/).
 
 <!--
 **william-wei0/william-wei0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
