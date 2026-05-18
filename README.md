@@ -8,7 +8,7 @@
 
 - I've also deployed a full-stack website educational website ([physicalchem.org](https://physicalchem.org/)) with interactive simulations of quantum mechanics to help students interact with concepts while working as a course assistant for New York University's Department of Chemical and Biomolecular Engineering.
 
-- And a small desktop app for summarizing and translating research papers using Anthropic and OpenAI, with multilingual translation, a light-weight RAG system, PDF text extraction, and persistent summary history. Built with Electron, React, and the Anthropic and OpenAI APIs to help students translate research papers to their native language. Also implemented hallucination checks to ensure accurate summaries and preserve technical terms.
+- And a small desktop app [TranslateResearch](https://github.com/william-wei0/TranslateResearch)for summarizing and translating research papers using Anthropic and OpenAI, with multilingual translation, a light-weight RAG system, PDF text extraction, and persistent summary history. Built with Electron, React, and the Anthropic and OpenAI APIs to help students translate research papers to their native language. Also implemented hallucination checks to ensure accurate summaries and preserve technical terms.
 
 - 💬 If you'd like to collaborate or have any questions, please feel free to reach out!
 - 📫 How to reach me: wjw9857@nyu.edu or williamwei9857@gmail.com
